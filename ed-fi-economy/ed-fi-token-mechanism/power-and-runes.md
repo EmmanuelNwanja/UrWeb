@@ -21,7 +21,7 @@ Each Weber NFT has an energy capacity, which allows for runes to be socketed to 
 
 #### **Rune Type and Generation**
 
-There are three types of runes (Wisdom Rune, Sharpness Run, and Excellency Rune) that boost static stats when socketed to a pair of Weber NFTs. Runes are generated as users read and differ in rarity, with rarer runes giving a higher stat boost.
+There are three types of runes (Knight's Rune, Socerers's Run, and Queen's Rune) that boost static stats when socketed to a pair of Weber NFTs. Runes are generated as users read and differ in rarity, with rarer runes giving a higher stat boost.
 
 #### Rune Effect and Energy Cost
 

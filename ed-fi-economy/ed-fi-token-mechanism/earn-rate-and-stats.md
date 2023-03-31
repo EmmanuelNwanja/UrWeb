@@ -11,11 +11,11 @@ Each Weber NFT has two types of stats:&#x20;
 
 ### Static Stats
 
-* **Smartness \[S]:** Smartness **** impacts the daily reward cap.
-* **Vitality \[V]:** Resourcefulness impacts stamina consumption.
-* **Dexterity \[D]:** Dexterity impacts earning speed.
-* **Curiosity \[C]:** Curiosity **** impacts the rate of experience accumulation.
-* **Grace \[G]:** Grace may impact places related to probability.
+* **Smartness \[S]:** Impacts the daily reward cap.
+* **Vitality \[V]:** Impacts stamina consumption.
+* **Dexterity \[D]:** Impacts earning speed.
+* **Curiosity \[C]:** Impacts the rate of experience accumulation.
+* **Grace \[G]:** May impact places related to probability.
 
 ****
 

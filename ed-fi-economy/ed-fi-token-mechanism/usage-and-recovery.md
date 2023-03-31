@@ -1,6 +1,6 @@
 # Usage and Recovery
 
-Each Weber NFT begins with full Usability (100/100) but when it is equipped and used to generate rewards, its Usability will deteriorate. If the durability reaches 0, the Weber NFT will enter "repair" mode, where it will not generate any $URWEB or EXP.&#x20;
+Each Weber NFT begins with full Usability (100/100) but when it is equipped and used to generate rewards, its Usability will deteriorate. If the durability reaches 0, the Weber NFT will enter "repair" mode, where it will not generate any $URWEB or RXP.&#x20;
 
 Only the equipped Weber NFT will be affected by deterioration. Users can repair their Weber and recover their Usability at the cost of $URWEB, which will vary depending on the Weber NFT level and tier.
 
