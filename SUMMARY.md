@@ -8,16 +8,16 @@
 
 ## Web3 for True Education
 
-* [Background](web3-for-true-education/background/README.md)
+* [Background](web3-for-true-education/background.md)
   * [Youths like Nkechi](web3-for-true-education/background/youths-like-nkechi.md)
   * [Overview](web3-for-true-education/background/overview.md)
 * [Open Doors](web3-for-true-education/open-doors.md)
 * [Knowledge Contract](web3-for-true-education/knowledge-contract.md)
-* [Decentralized Assessment System](web3-for-true-education/decentralized-assessment-system.md)
+* [Decentralized Assessment System](ed-fi-economy/real-knowledge-gain/decentralized-assessment-system.md)
 
 ## Ed-Fi Economy
 
-* [“Real” Knowledge Gain](ed-fi-economy/real-knowledge-gain.md)
+* [“Real” Knowledge Gain](ed-fi-economy/real-knowledge-gain/README.md)
 * [Core Concepts](ed-fi-economy/core-concepts/README.md)
   * [Resources, Pathways, NFTs and Tokens](ed-fi-economy/core-concepts/resources-pathways-nfts-and-tokens.md)
   * [Weber NFT](ed-fi-economy/core-concepts/weber-nft.md)
@@ -33,6 +33,7 @@
   * [Pathway Voting](ed-fi-economy/goverance/pathway-voting.md)
   * [Pathway Creation](ed-fi-economy/goverance/pathway-creation.md)
 * [Ed-Remittance](ed-fi-economy/ed-remittance.md)
+* [Token Distribution](ed-fi-economy/token-distribution.md)
 
 ## Roadmap
 
@@ -40,10 +41,9 @@
 
 ## About
 
-* [Our Story](about/our-story.md)
 * [Team](about/team.md)
 
 ## Appendices
 
-* [Anti-Cheating Notice](appendices/anti-cheating-notice.md)
+* [Anti-Cheating Notice](anti.md)
 * [Revision History](appendices/revision-history.md)

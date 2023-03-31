@@ -13,7 +13,7 @@ We are working on building a decentralized and impact-driven education platform 
 
 UrWeb may penalize users with the above behaviours, including:
 
-1. Limiting functions
+1. Limiting capabilities
 2. Banning accounts
 3. Deducting points
 

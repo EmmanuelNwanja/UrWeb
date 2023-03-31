@@ -20,13 +20,13 @@ Weber NFTs are the core assets of UrWeb. More details is described in the [**Web
 
 
 
-### $--- Tokens
+### $URWEB Tokens
 
-$--- tokens are the primary reward that users will earn in UrWeb . There is no supply limit for this token.
+$URWEB tokens are the primary reward that users will earn in UrWeb . There is no supply limit for this token.
 
 
 
-### $--- Governance Token
+### $URWB Governance Token
 
-$--- is the governance token on UrWeb . See Token Distribution for more details. Content Quality Standards.
+$URWB is the governance token on UrWeb . See Token Distribution for more details. Resource Quality Standards.
 

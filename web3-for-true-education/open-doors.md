@@ -12,7 +12,7 @@ With community engagement benefits and growth, newbies today will become leaders
 
 ### Valuable Resources
 
-UrWeb will provide insightful and valuable resources to our community. Using our powerful contributor-content-aggregator process, UrWeb will not only build a high-quality index of articles from traditional media, internet portals, and social networks around the world but also translate . ReadON will also index on-chain content from Mirror and RSS3.
+UrWeb will provide insightful and valuable resources to our community. Using our powerful contributor-content-aggregator process, UrWeb will not only build a high-quality index of the best pieces of skill develoment materials from traditional media, internet portals, and social networks around the world but also translate . UrWeb will also index on-chain content from other satisfactory Web3 platforms.
 
-The first phase of ReadON will focus on medium-size articles and blogs, such as analysis reports, tutorials, opinions, and book summaries. Other media formats like full books, novels and videos will be supported in the future based on a paid content integration program.
+The first phase of UrWeb will focus on simple infographics and graphics, medium-size articles and blogs, such as analysis, tutorials, opinions, and knowledge summaries. Other media formats like full books, research works, and videos will be supported as we progress.
 

@@ -6,4 +6,9 @@ description: >-
 
 # Revision History
 
-Nothing to see here for now.
+### 29th March 2023
+
+The first draft of UrWeb's whitepaper was published.
+
+
+
