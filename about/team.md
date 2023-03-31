@@ -2,9 +2,9 @@
 
 ### Nwanja | Co-builder
 
-Nwanja is a staunch social-impact entrepreneur who founded a waste and recycling company that was ranked as one of the 9 most innovative companies in Nigeria in 2022.&#x20;
+Nwanja is the Managing Director of VitroWire, one of Africa's best Web3 Marketing Agencies.
 
-Managing Director of VitroWire, one of Africa's best Web3 Marketing Agencies with clients and projects worth over $100k.
+A staunch social-impact entrepreneur who founded a waste and recycling company that was ranked as one of the 9 most innovative companies in Nigeria in 2022.&#x20;
 
 Former Head of Growth of a YouthUp, a Web2 youth impact organization with a global reach across 10+ countries.
 
