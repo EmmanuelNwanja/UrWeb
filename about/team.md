@@ -20,7 +20,7 @@ Business Development Manager of Gamic, Africa's biggest gaming community with ov
 
 ### Oranu | Advisor
 
-Founder & CEO of BitBarter
+Founder & CEO of BitBarter Exchancge
 
 Product manager and Software engineer.
 
