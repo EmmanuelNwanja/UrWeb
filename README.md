@@ -1,7 +1,5 @@
 ---
-description: >-
-  "Today's biggest problem is the people we didn't educate yesterday." - H.E.
-  Peter Obi
+description: '"Today''s biggest problem is the people we didn''t educate yesterday." - H.E. PO'
 ---
 
 # The Sad Part
